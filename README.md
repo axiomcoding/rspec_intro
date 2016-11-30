@@ -1,2 +1,2 @@
-# rspec_intro
+# RSpec Intro
 Follow the commented instructions in `rspec_intro.rb`. Each method is written for you. Focus on reading the RSpec expected return or printed values and edit the Ruby code in `rspec_intro.rb` accordingly in order to pass both tests.
